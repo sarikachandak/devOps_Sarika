@@ -2,3 +2,4 @@ This is file 1
 create for executing git command
 lets work with git feature branch
 lets compare git fetch and git pull
+i am working on got stash

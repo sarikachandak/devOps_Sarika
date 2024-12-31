@@ -1,4 +1,9 @@
 This is file 2
 This is second file 2
+<<<<<<< HEAD
 lets do some more practice
 now you will face some error -resolve it
+=======
+practice makes man perfect
+>>>>>>> b91079b416651eb50f7d75a428bc4a6f1b23406a
+lets now study git stash
